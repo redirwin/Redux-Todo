@@ -1,6 +1,6 @@
 # Todo App made with React & Redux
 
-## [NETLIFY DEPLOYMENT](https://redux-todo-di.netlify.com/)
+### [NETLIFY DEPLOYMENT](https://redux-todo-di.netlify.com/)
 
 ## Skills Covered
 
