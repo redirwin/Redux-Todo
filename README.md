@@ -1,26 +1,18 @@
-# TITLE
+# Todo App made with React & Redux
 
-**[NETLIFY DEPLOYMENT]('URL')
+**[NETLIFY DEPLOYMENT]('https://redux-todo-di.netlify.com/')
 
-## Topics Covered
+## Skills Covered
 
 - Redux
 - mapStateToProps
 - Actions
+- Reducers
  
-
 ## The Application
 
 CRUD Functionality covered:
 
-
-
-### Topic 1
-
-
-
-### Topic 2
-
-
-
-### Topic 3
+### Create
+### Read
+### Delete
